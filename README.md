@@ -38,7 +38,7 @@ sourceRef:
   name: podinfo-charts
 ```
 
-## 4. Add signature verification
+## 4. Add (keyless) signature verification
 
 (From the Flux Blog linked above):
 
